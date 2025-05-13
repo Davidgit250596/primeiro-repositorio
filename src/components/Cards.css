@@ -1,0 +1,14 @@
+.cards{
+    background-color: brown;
+    color: aliceblue;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button{
+    background-color: burlywood;
+    color: aliceblue;
+    border-radius: 10px;
+    border: none;
+}
